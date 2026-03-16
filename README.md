@@ -2,6 +2,12 @@
 
 Welcome to the comprehensive Terraform with AWS video course! This repository contains all code samples and documentation corresponding to each video lesson.
 
+**Application Architecture:**
+
+
+<img width="947" height="502" alt="image" src="https://github.com/user-attachments/assets/528c22f2-f316-4eb1-a464-45f4044bced8" />
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=piyushsachdeva/Terraform-Full-Course-Aws&type=date&legend=top-left)](https://www.star-history.com/#piyushsachdeva/Terraform-Full-Course-Aws&type=date&legend=top-left)
